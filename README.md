@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/behind-closed-doors/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Behind Closed Doors](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/behind-closed-doors/) |
+| **Get License** | [Get a Licensing Quote for Behind Closed Doors](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/behind-closed-doors/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bfbe48859d1633d722a7e8fb3a0f669e28c827a4c1ac3a0908b4a46bce869a70` |
 | **Timestamp** | June 03, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

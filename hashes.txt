@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Behind Closed Doors
+
+This log tracks the cryptographic history and versioning for the song **Behind Closed Doors** (behind-closed-doors).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-03T04:08:29.648748 | `v1` | `bfbe48859d1633d722a7e8fb3a0f669e28c827a4c1ac3a0908b4a46bce869a70` | `acd14ebe396a86bcbf5b5dcab6e18fe3429f8e509c3650c08482a833e7f08b5d` | `2026-06-03_behind-closed-doors-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
